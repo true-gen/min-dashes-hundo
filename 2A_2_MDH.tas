@@ -1,78 +1,5 @@
 unsafe
    1,J
-  30
-   1,J
- 240
-   1,J
- 327
-
-#lvl_start
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  12,J
-  15,U,X
-   7
-  15,U,X
-   7
-  15,U,X
-  10,R,J,G
-  12,K,G
-  52,J,G
-
-#lvl_s0
-  12,K,G
-  12,J,G
-  12,K,G
-  12,J,G
-  12,K,G
-  12,J,G
-  12,K,G
-  64,L,J
-
-#lvl_s1
-  74,L,J
-
-#lvl_s0
-  55,L,U,J,X
-
-#lvl_s1
-  82,L,J
-
-#lvl_s0
-  55,L,U,J,X
-
-#lvl_s1
-  26,L,J
-  10,L,U,X
-  32,R,J,G
-  12,K,G
-  12,J,G
-  12,K,G
-   6,R,J,G
-   4,R,J
-  14,R
-  10,R,J
-   9,R,J,G
-  12,K,G
-  50,J,G
-
-#lvl_s2
-  23,R
-  10,R,J
-  14,R
-   9,R,J
-  15,R,X
- 137
-   1,S
-   1,U,J
-   1
-   1,J
-  70
-   1,J
-  30
-   1,J
  240
    1,J
  327
@@ -208,7 +135,7 @@ unsafe
    1,L,J
   54,L
 
-#lvl_d8
+#lvl_d8 (2)
    3,L,J
   12,R,J,G
   12,K,G
@@ -219,7 +146,7 @@ unsafe
    1,R,J
   54,R
 
-#lvl_d3
+#lvl_d3 (2)
    1,R,J
   14,R
    1,R,J
@@ -331,7 +258,7 @@ unsafe
    1,L,J
   54,L
 
-#lvl_d0
+#lvl_d0 (2)
    1,L,J
   14,L
    1,L,J
@@ -369,7 +296,7 @@ unsafe
   12,K,G
   49,J,G
 
-#lvl_d0
+#lvl_d0 (3)
   15,U,X
   22
   10,D
@@ -450,7 +377,7 @@ unsafe
    1,R,J
   64,R
 
-#lvl_d0
+#lvl_d0 (4)
    1,R,J
   21,R
   22,R,D
@@ -516,7 +443,7 @@ unsafe
    1,L,J
   54,L
 
-#lvl_d4
+#lvl_d4 (2)
    1,L,J
   18,L
    1,L,J
@@ -533,7 +460,7 @@ unsafe
    2,L
   55,D,X
 
-#lvl_d2
+#lvl_d2 (2)
    5,D
    4,R,D
    1,R,J
@@ -550,7 +477,7 @@ unsafe
    1,L,J
   54,L
 
-#lvl_d0
+#lvl_d0 (5)
    1,L,J
   14,L
    1,L,J
@@ -564,7 +491,7 @@ unsafe
    1,L,J
   54,L
 
-#lvl_d6
+#lvl_d6 (2)
    1,L,J
   21,L
    1,L,J
@@ -586,7 +513,7 @@ unsafe
   12,L,G
   57,J,G
 
-#lvl_d1
+#lvl_d1 (2)
   12,L,K,G
   11,L,G
    2,L,J,G
@@ -615,7 +542,7 @@ unsafe
    1,R,J
   64,R
 
-#lvl_d0
+#lvl_d0 (6)
   55,R,J,G
   12,K,G
   12,J,G
@@ -627,7 +554,7 @@ unsafe
   13,R,J,G
   57,L,K,G
 
-#lvl_1
+#lvl_1 (2)
   12,J,G
    7,L,K,G
   13,L
@@ -641,7 +568,7 @@ unsafe
   14,L
   41,L,J
 
-#lvl_0
+#lvl_0 (2)
   14,L
   10,L,J
   21,L
@@ -657,7 +584,7 @@ unsafe
    1,R,J
   70,R
 
-#lvl_1
+#lvl_1 (3)
   41,R,J
    1,R,K
   42,R
@@ -680,7 +607,7 @@ unsafe
    1,L,J
   60,L
 
-#lvl_0
+#lvl_0 (3)
    8,L,J
   19,L
    1,L,J
@@ -945,7 +872,7 @@ unsafe
    9,L,D
   68,D
 
-#lvl_9
+#lvl_9 (2)
    1,J
   22,D
   15,R,D
@@ -1187,7 +1114,7 @@ unsafe
   13,L
   52,D
 
-#lvl_12b
+#lvl_12b (2)
   15,D,X
   80
 
@@ -1226,7 +1153,7 @@ unsafe
    6,R,J,G
   49,K,G
 
-#lvl_12b
+#lvl_12b (3)
    8,R
   15,R,X
    4
@@ -1266,7 +1193,6 @@ unsafe
   26,R
    1,S
    1,D,J
-***
  208
 
 #lvl_end_0
@@ -1417,7 +1343,6 @@ unsafe
   32,L,K,G
   10,K
   14,L,J
-***
   41,L,J,G
    9,L,K,G
   12,J,G
@@ -1430,7 +1355,7 @@ unsafe
    9,D
   45,R,D
 
-#lvl_end_3cb
+#lvl_end_3cb (2)
   11,R
   12,D
   15,L
@@ -1440,7 +1365,7 @@ unsafe
    6,R,D
   44,D
 
-#lvl_end_3b
+#lvl_end_3b (2)
    6
   35,R
   20,R,J
