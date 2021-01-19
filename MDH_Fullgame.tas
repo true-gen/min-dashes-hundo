@@ -29,3 +29,7 @@ Read,1A_2_MDH,Start
   46
 
 Read,1A_3_MDH,Start
+
+Read,LoadBFromA,Exit
+
+Read,1B_MDH

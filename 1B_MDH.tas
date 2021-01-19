@@ -1,8 +1,7 @@
-#Start from Begin
-   1,Q
-   1,J
- 119
- 
+console hard 1
+  89
+
+#Start
 #lvl_00
    1,R,J
   14,R
