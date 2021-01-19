@@ -3,6 +3,7 @@
 console hard 2
    1
 
+#Start
 #lvl_start
  190
    1,R,J
@@ -504,7 +505,6 @@ console hard 2
   13,J,G
   11,K,G
   40
-***
 
 #lvl_end
    1,R,J,G
@@ -514,13 +514,11 @@ console hard 2
    5,R,J,G
   14,R
   15,J
-***
   17,U,X
   18,R,J
   12,K,G
   12,J,G
   12,K,G
-***
   10,J,G
   21,K
    6,L,K
@@ -532,12 +530,10 @@ console hard 2
   12,K,G
   12,J,G
   12,K,G
-***
    6,J,G
   21,K
    6,R,K
    1,R
-***
   54
   12,J,G
   12,K,G
