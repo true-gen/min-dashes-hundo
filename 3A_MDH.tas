@@ -1887,7 +1887,6 @@ Read,SaveAndQuit
   54,L
 
 #lvl_06-d
-***
    1,L,J
    4,L
   33,R,D
@@ -1930,7 +1929,6 @@ Read,SaveAndQuit
    1,R
    1,S
    9
-***
    5,J
   14,L,J
   10,K,G
@@ -1953,7 +1951,6 @@ Read,SaveAndQuit
    9
   19,J
    4,K,G
-***
    1,R,J
    8,L,J
   34,L
@@ -1976,12 +1973,10 @@ Read,SaveAndQuit
   10,J,G
   23,R,K
    6,J,G
-***
   18,L,K
    1,L,J,G
   21,L
   40
-***
 
 
 #lvl_04-d

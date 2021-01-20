@@ -44,7 +44,6 @@ Read,2B_MDH,Start
 
 Read,LoadAFromB,SkipExit,Summit
 
-***
 Read,3A_MDH,Start
 
 Read,LoadBFromA,Exit
