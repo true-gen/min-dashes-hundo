@@ -4,7 +4,7 @@ Read,Prologue,Start
 
 Read,Load1A
 
-Read,1A_1_MDH,Start
+Read,1SHC_MDA1,Start
 
   59
    1,S
@@ -16,7 +16,7 @@ Read,1A_1_MDH,Start
    1,J
   46
 
-Read,1A_2_MDH,Start
+Read,1SHC_MDA2,Start
 
  100
    1,S
@@ -28,24 +28,24 @@ Read,1A_2_MDH,Start
    1,J
   46
 
-Read,1A_3_MDH,Start
+Read,1SHC_MDA3,Start
 
 Read,LoadBFromA,Exit
 
-Read,1B_MDH
+Read,1B_MDA
 
 Read,LoadAFromB,SkipExit,Summit
 
-Read,2A_MDH,Start
+Read,2SHC_MDA,Start
 
 Read,LoadBFromA,Exit
 
-Read,2B_MDH,Start
+Read,2B_MDA,Start
 
 Read,LoadAFromB,SkipExit,Summit
 
-Read,3A_MDH,Start
+Read,3SHC_MDA,Start
 
 Read,LoadBFromA,Exit
 
-Read,3B_MDH,Start
+Read,3B_MDA,Start
