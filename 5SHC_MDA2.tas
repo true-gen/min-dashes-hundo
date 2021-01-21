@@ -25,7 +25,7 @@ console load 5
 
 #lvl_a-00d
 
-Read,5A_1_MDH,lvl_a-00d,lvl_a-01
+Read,5SHC_MDA1,lvl_a-00d,lvl_a-01
 
 #lvl_a-01
    1,R
