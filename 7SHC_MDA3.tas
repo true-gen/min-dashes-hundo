@@ -1311,8 +1311,7 @@ play,Section 3000m,37
 #lvl_g-00
   76
 #Section 3000m
-   1,R,J
-  14,R
+  17,R
   12,R,J
    5,K,G
    6,R,J,G
@@ -1358,9 +1357,7 @@ play,Section 3000m,37
   12,J,G
   12,K,G
   12,J,G
-  10,R
-   1,R,J
-  14,R
+  27,R
    4,R,D,J
    7,D,K,G
    5,L,D,K
@@ -1485,6 +1482,5 @@ play,Section 3000m,37
    1,S
    1,D
    1,F,180
-   1,D
-   1,J,F,180
+   1,D,J
   31

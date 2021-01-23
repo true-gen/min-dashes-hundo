@@ -1,8 +1,8 @@
 #console load 7 5912 -4328
 #play,Section 1000m,37
 
-#console load 7 9976 -7176
-#play,Section 1500m,42
+console load 7 9976 -7176
+play,Section 1500m,42
 
 #console load 7 14640 -8400
 #play,Section 2000m,37
@@ -1424,9 +1424,7 @@ console load 7 3056 -1784
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
+  31,R
    1,R,J
   14,R
    1,R,J
@@ -1438,10 +1436,11 @@ console load 7 3056 -1784
    1,R,J
   14,R
    3,R,J
-  12,R
-   9,R,K,G
+***
+  13,R
+  13,R,K,G
   12,J,G
-  15,K,G
+  12,K,G
   11,R
    1,R,J
   21,R,D
