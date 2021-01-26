@@ -1,6 +1,9 @@
 console load 5 -832 1688
 Play,Section Unravelling,37
 
+console load 5 3200 2303
+Play,Section Search,37
+
 console load 5 7536 -112
    1
 
@@ -550,7 +553,229 @@ console load 5 7536 -112
    1,R,J
   14,R
    1,R,J
+   5,R
+  15
+   7,R
+  63,R,J
+  17,R
+   1,R,K,G
+   3,L,K
+   3,R,K
+   1,R,J,G
+   1,R,K,G
+  14,R
+   1,R,J
+  24,R
+  24,R,J
+   1,R,K,G
+   3,L,K
+   2,R,K
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+   2,R
+   2
+   2,R
+  40
+
+#lvl_c-09
+   8,R
+   1,R,J
+   8,R,K,G
+  14,R
+  14,R,G
+  12
+   4,D
+  28,R,D
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   2,R,J
+   3,R
+   2
+   7,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+   7,R
+  14,R,J,G
+   2,J
+   7,R,J
+   7,R,K,G
+  12,R,J,G
+   2,R,K,G
+   1,R,J,G
+   3,L,J
+   3,R,J
+   1,R,K,G
+   6,R,J,G
+   8,R,K,G
+   3,L,K
+   2,R,K
+   1,R,J,G
+   1,R,K,G
+  14,R
+   2,R,J
+   4,R
+  40
+
+#lvl_c-13
+   9,R
+   1,R,J,G
+   1,R,K,G
+  18,R
+  32,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  22,R
+   4,R,J
+   2,R
+   2
+   4,R
+   1,R,J,G
+   2,R,K,G
+  17,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  31,L
+   1
+  41,R
+   5,R,J
+   1,R,K,G
+   1,R,J,G
+  43,R,J
+   8,R,K,G
+   3,L,K
+   2,R,K
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,J
+  18,R
+  18,R
+   1,D
+   7,R,D
+   1,R,J
+   1
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R
+  11,R,J
+  12,R,K,G
+   3,J
+   4,R,K,G
+   6,K
+   2,R,K
+   1,R,J,G
+  10,R,K,G
+   6,R,J,G
+   3,K
+  12,R,J,G
+   5,L,K
+   5,L
+  10,L,J
+   8,L
+   9,L,D
+   1,L,J
+  19,L
+  10,L,J
+   2,J
+   9,L,J
+   1,L,K,G
+   8,L,J,G
+  28,L
+   1,L,J,G
+  14,L
+  16,L,J
+  14,L
+   2,L,J
+  10,J
+  26
+  11,R
+  38,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   6,L
+   3,L,J
+  20,L
+  24,L,J
+  11,L
+   1,L,J,G
+   4,L
+  10
+   1,S
+   1,D
+   1,J,F,180
+   1,L
+   1,S
+   9
+   3,J
+   1,S
+   1,D
+   1,J,F,180
+   1,R
+   1,S
+   9
+  10,J
+   9,R,J
+   1,R,J,G
+  12,R,K,G
+  12,R,J,G
+   2,R,K,G
+  40
+
+#lvl_d-00
+   2,R,J,G
+   3,L,K
+   2,L
+   3,L
+   2,L
+   2,L,J
+   1,L,K,G
+  11,L
+   1,L,J
+   2,L
+   1,S
+   1,D,J
+  34
+  12,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  12,L,J
+  12,K,G
+  12,J,G
+   4,K,G
+   9,R,J
+#Section Search
+  49,U,C
+  15,R,U,X
+  20
+  27,R
+  69,U,C
+  58
+
+#lvl_d-01
+
  100,R
+
+ 100,R,J
+
+
 
 
 
