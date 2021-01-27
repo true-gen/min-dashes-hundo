@@ -1,12 +1,16 @@
+#console load 6 8028 -2766
+#Play,Section Reflection,37
+
 console load 6 -1848 -3496
    1
 
-#start
+#Start
 #lvl_04c
   37
    1,R,J
    3,R
-  43
+   #CHANGE THIS TO 43 IF EDITING SOLO FILE
+  40
 
 #lvl_04b
   11,R
@@ -101,7 +105,7 @@ console load 6 -1848 -3496
  125,F,76
    1,F,83
   21,F,90
-  12,R
+  13,R
    4,R,J
   14,R
    1,R,J
@@ -501,6 +505,7 @@ console load 6 -1848 -3496
   25,R,J
    5,K,G
    2,J
+#Section Reflection
   12,R,K,G
   12,J,G
    8,K,G
@@ -1433,17 +1438,18 @@ console load 6 -1848 -3496
    2,R,J
   18,R
    1,R,J
-  13,R
-   1,R,J
-  10,R
-   5,K,G
-   4,R,J,G
-  12,R
+  17,R
+   7,R,J
+   6,R,K
+   1,R,J,G
+   3,L,J
    2,R,J
-   9,R
-   1,R,J
+   1,R,K,G
+   1,R,J,G
   14,R
-   8,R,J
+   1,R,J
+   1,R,K,G
+  20,R,J,G
   82,R
    1,R,J
   18,R
@@ -1726,6 +1732,7 @@ console load 6 -1848 -3496
 
 #lvl_after-00
   26,L
+#Section Resolution
   10,K,G
   11,L,J,G
    3,K,G
@@ -1800,7 +1807,6 @@ console load 6 -1848 -3496
    1,R,K
   14,R
    2,R,J
-***
   13,R
    7
    1,R
@@ -1871,5 +1877,3 @@ console load 6 -1848 -3496
 
 #lvl_after-02
   45
-   1,S
-   1,D,J
