@@ -1,11 +1,11 @@
 #console load 5 -832 1688
 #Play,Section Unravelling,37
 
-#console load 5 3172 2330
-#Play,Section Search,37
+console load 5 3172 2330
+Play,Section Search,37
 
-console load 5 3208 1228
-Play,Section Rescue,37
+#console load 5 3208 1228
+#Play,Section Rescue,37
 
 
 console load 5 7536 -112
@@ -1752,7 +1752,7 @@ console load 5 7536 -112
   14,R,G
    1,R,J,G
    3,R,G
-  58
+  40
 
 #lvl_e-01
   11,R,G
@@ -2408,7 +2408,7 @@ console load 5 7536 -112
    1,R,J
   22,R,G
   15,R
-
+   6
 
 
 
