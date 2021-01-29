@@ -1,8 +1,12 @@
 #ByQuirrenCore
 
+#console load 9 2852 -1981
+#Play,Section Hot and Cold,37
+
+
 console load 9
 
-
+#Start
 #lvl_00
   56
    6,R
@@ -734,6 +738,8 @@ console load 9
   11,R,K
   12,J,G
   12,K,G
+#Section Hot and Cold
+#console core 2
    5,J,G
   40
 
@@ -775,8 +781,8 @@ console load 9
   14,R
    1,R,J
   38,R
- 100,R,J
-  21,L,J
+ 106,R,J
+  15,L,J
   12,R,K
    8,J
   53,D
@@ -853,6 +859,64 @@ console load 9
   40
 
 #lvl_c-03
+   6,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   5,R,J
+  32,R
+  12,R,J
+  32,R
+   6,R,J
+   1,J
+   9,R,J
+   4,J
+   5
+   3,L
+  66,R
+  27,R,J
+   4
+  32,R
+  10,R,J
+   8,R
+  15,L
+   2,L,D
+  10,D
+  29
+   2,D
+   1,L,D
+  19,L,D,J
+   9,L,K,G
+
+  40
+   2
+   1,J
+   1
+   1
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+   6,J
+   3,R,J
+   1,R,K,G
+   6,R,J,G
+   6,R
+   1,R,J,G
+   3,R,K,G
+  18,R
+   5,R,D
+   1,R,J
+  18,R
 
   
 
