@@ -1,8 +1,7 @@
 console hard 4
-
    1
 
-#start
+#Start
 #lvl_a-00
   62
    2,R
@@ -118,16 +117,23 @@ console hard 4
  108,D
    4,R
    9
- 348,L,G
+ 355,L,G
    6,K,G
   10
-  23,L
-  15
-  24,U
-  46
-  32,U
    7,L
-  19,R,G
+  31
+  24,U
+  30
+  18,U
+  16,L,U
+   1,L
+   1
+  15,R
+   2,R
+   1,R,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -144,16 +150,15 @@ console hard 4
    1,R,K,G
    1,R,J,G
    3,R,K,G
-   1,R
    1,R,J,G
    3,R
   40
 
 #lvl_a-04
-  11,R
+   5,R
  180,G
   44,U,G
-   4,G
+   8,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -163,8 +168,8 @@ console hard 4
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  10,R,K,G
-   7,J,G
+  11,R,K,G
+   3,J,G
    1,R,K,G
   11,R
    1,R,J
@@ -1152,4 +1157,8 @@ console hard 4
   16,R,J
   15,R,U,X
  139
-
+   1,S
+   1,U
+   1,O
+   1
+   1,O

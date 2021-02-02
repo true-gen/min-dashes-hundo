@@ -48,4 +48,49 @@ Read,3SHC_MDA,Start
 
 Read,LoadBFromA,Exit
 
+***
 Read,3B_MDA,Start
+
+Read,LoadAFromB,SkipExit,Summit
+
+Read,4SHC_MDA,Start
+
+Read,LoadBFromA,Exit
+
+Read,4B_MDA,Start
+
+Read,LoadAFromB,SkipExit,Summit
+
+Read,5SHC_MDA1,Start
+
+Read,5SHC_MDA2,Start
+
+  59
+   1,S
+  10
+   1,J
+  30
+   1,R
+   5
+   1,J
+  46
+
+Read,5SHC_MDA3,Start
+
+Read,SaveAndQuit
+
+Read,5SHC_MDA4,Start
+
+Read,LoadBFromA,Exit
+
+Read,5B_MDA,Start
+
+Read,LoadAFromB,SkipExit,Summit
+
+Read,6HC_MDA1,Start
+
+Read,SaveAndQuit
+
+Read,6HC_MDA2,Start
+***
+Read,LoadBFromA,Exit
