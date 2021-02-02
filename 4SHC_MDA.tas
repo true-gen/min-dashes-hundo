@@ -6,7 +6,7 @@
 
 #4A
 console load 4
-1
+   1
 
 #Start
 #lvl_a-00
@@ -5008,7 +5008,7 @@ console load 4
    1,R,J
   14,R
    1,R,J
-   2,R
+   3,R
 
 
 

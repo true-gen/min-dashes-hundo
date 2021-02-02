@@ -48,7 +48,6 @@ Read,3SHC_MDA,Start
 
 Read,LoadBFromA,Exit
 
-***
 Read,3B_MDA,Start
 
 Read,LoadAFromB,SkipExit,Summit
@@ -92,5 +91,5 @@ Read,6HC_MDA1,Start
 Read,SaveAndQuit
 
 Read,6HC_MDA2,Start
-***
+
 Read,LoadBFromA,Exit
