@@ -1,8 +1,5 @@
-#ByQuirrenCore
-
-#console load 9 2852 -1981
-#Play,Section Hot and Cold,37
-
+console load 9 2852 -1981
+Play,Section Hot and Cold,37
 
 console load 9
 
@@ -739,7 +736,7 @@ console load 9
   12,J,G
   12,K,G
 #Section Hot and Cold
-#console core 2
+console core 2
    5,J,G
   40
 
@@ -893,6 +890,7 @@ console load 9
   19,L,D,J
    9,L,K,G
 
+#lvl_c-03b
   40
    2
    1,J
@@ -917,3 +915,150 @@ console load 9
    5,R,D
    1,R,J
   18,R
+   5,R,J
+  18,R
+   1,L
+   6,L,D
+  40
+
+#lvl_c-03 (2)
+  39,R,D
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  40
+
+#lvl_c-04
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+   2,J
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,J
+  50,R
+  57,R,J
+ 139,R
+  21,R,J
+  29,R
+  11,R,J
+  12,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+   6,R
+  40
+
+#lvl_d-00
+   8,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   4,R,J
+  11,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   3
+   2,R,D
+   1,R,D
+  11,R,J
+   7,R
+  51,G
+  77,L,J
+  13,L,K,G
+   3,J,G
+   2,L,J
+   1,L,K,G
+   1,L,J,G
+  10,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  12,L,J
+  12,L,K,G
+  12,L,J,G
+  12,L,K,G
+   8,L,J,G
+  11
+   1,G
+   2
+   1,G
+   2
+ 180,G
+   1,U,G
+   1,R,K
+   3,R
+  10,R,J
+   5,R
+   2,R,J
+  12,R
+  19,R,J,G
+  12,R,U,G
+  11
+  21,R,K,G
+  12,L,J
+   2,L
+  32,G
+   1
+   1,K
+   2,L,K
+  40
+
+#lvl_d-01
+   1,L,K
+   5,L,K
+   1,L,J,G
+   5,L,K,G
+   1,K
+   4,L,K,G
+   1,K
+   2,L,K,G
+   1,L,J,G
+   1,L,K,G
+  13,L
+   8,L,J
+   1
+   4,L
+   1,L,J,G
+  15,L,K,G
+  12,L,J,G
+   1,L,K,G
+   1,L
+   2,J
+   5,R,J
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+  13,R
+  11,R
+  40,R,J
+   1,R,K,G
+   6,R,J,G
+  16,R
+  19,R,J
+   7,R,K,G
+   1,R,J,G
+   3,L,J
+   3,R,J
+   1,R,K,G
+   9,R,J,G
+   1
+ 100,R
+
+
+
+
