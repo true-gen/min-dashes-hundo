@@ -1,10 +1,10 @@
 #console load 7 20152 -11416
 #play,Section 2500m,37
 
-console load 7 25600 -13432
-play,Section 3000m,37
+#console load 7 25600 -13432
+#play,Section 3000m,37
 
-#console load 7 14672 -8424
+console load 7 14672 -8424
    1
 
 #Start
