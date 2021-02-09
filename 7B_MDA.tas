@@ -13,8 +13,8 @@
 #console hard 7 10632 -9384
 #Play,Section 2500m,37
 
-#console hard 7 12848 -11320
-#Play,Section 3000m,37
+console hard 7 12848 -11320
+Play,Section 3000m,37
 
 #console hard 7 12848 -13624
 #Play,Section Updraft,37
@@ -22,11 +22,8 @@
 #console hard 7 12880 -14832
 #Play,Flag 8,37
 
-#console hard 7
-#   1
-unsafe
-   1,J
- 304
+console hard 7
+   1
 
 #Start
 #lvl_a-00-intro
