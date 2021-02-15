@@ -1,8 +1,8 @@
 #console load 7 5912 -4328
 #play,Section 1000m,37
 
-console load 7 9976 -7176
-play,Section 1500m,42
+#console load 7 9976 -7176
+#play,Section 1500m,42
 
 #console load 7 14640 -8400
 #play,Section 2000m,37
