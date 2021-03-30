@@ -1,7 +1,7 @@
-#console load 10 43618 -8756
-#   1
-#   3
-#Play,LoadPoint
+console load 10 43618 -8756
+   1
+   3
+Play,#LoadPoint
 
 console load 10 21353 -6456
 
