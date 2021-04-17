@@ -403,14 +403,11 @@ console hard 5
   12,R,J
   12,K,G
    9,J
-   4,U,X
-  24,U
-   1,L,J
-  12,L
-  13,R,D,J
+36,U,X
+   1,U
    4,L,X
    7,L
-   5,L,J,G
+   6,L,J,G
    5,L,K,G
    4,L,J,G
    5,L,K,G
@@ -419,7 +416,7 @@ console hard 5
    3,L,J,G
   36,L,D
    3,L,J
-   9,L
+  10,L
    4,U,X
   48,U
    4,R,X
