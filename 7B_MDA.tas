@@ -13,8 +13,8 @@
 #console hard 7 10632 -9384
 #Play,Section 2500m,37
 
-console hard 7 12848 -11320
-Play,Section 3000m,37
+#console hard 7 12848 -11320
+#Play,Section 3000m,37
 
 #console hard 7 12848 -13624
 #Play,Section Updraft,37

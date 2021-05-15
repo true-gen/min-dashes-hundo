@@ -1,8 +1,9 @@
-console hard 9 -168 64
+console hard 9
 
 #start
+   1
 #lvl_00
-  38
+  54
    1,R,J
   14,R
    1,R,J
@@ -897,7 +898,3 @@ console hard 9 -168 64
  130,R
   15,R,X
  139
-   1,S
-   1,U,J
-   1
-   1,J
