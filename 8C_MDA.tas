@@ -1,10 +1,8 @@
-unsafe
+console rmx2 9
 
-console rmx2 9 -128 56
-
-#start
+#Start
 #lvl_intro
-  38
+  62
    1,R,J
   14,R
    1,R,J
@@ -189,7 +187,3 @@ console rmx2 9 -128 56
   14,R,J
   15,R,U,X
  137
-   1,S
-   1,U,J
-   1,O
-  31

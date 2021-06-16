@@ -132,3 +132,57 @@ Read,LoadBFromA,Exit
 
 Read,7B_MDA,Start
 
+Read,LoadAFromB,Start,Summit
+
+ 115
+
+Read,Epilogue,Start
+
+Read,LoadCoreFromSummit,8A
+
+Read,8SHC_MDA,Start
+
+Read,LoadBFromA,Exit
+
+Read,8B_MDA,Start
+
+Read,Load1C
+
+Read,1C_MDA,Start
+
+Read,LoadC
+
+Read,2C_MDA,Start
+
+Read,LoadC
+
+Read,3C_MDA,Start
+
+Read,LoadC
+
+Read,4C_MDA,Start
+
+Read,LoadC
+
+Read,5C_MDA,Start
+
+Read,LoadC
+
+Read,6C_MDA,Start
+
+Read,LoadC
+
+Read,7C_MDA,Start
+
+Read,LoadC,Start,Core
+   1,R
+   9
+Read,LoadC,Core
+
+Read,8C_MDA,Start
+
+Read,Load9From8C,Start,Postcard
+
+Read,Load9From8C,Resume
+
+Read,9_MDA,Start

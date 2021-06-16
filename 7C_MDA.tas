@@ -1,8 +1,8 @@
-console rmx2 7 -160 168
+console rmx2 7
 
-#start
+#Start
 #lvl_01
-  38
+  79
    6,R
    1,R,J
   25,R
@@ -176,7 +176,3 @@ console rmx2 7 -160 168
   18,R,J
   15,U,X
  137
-   1,S
-   1,U,J
-   1,O
-  31

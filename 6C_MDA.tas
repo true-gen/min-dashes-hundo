@@ -1,43 +1,56 @@
-console rmx2 6 -160 8
+console rmx2 6 
 
-#start
+#Start
 #lvl_00
-  38
+  70
    2,R
    1,R,J
   14,R
-   9,R,J
+   7,R,J
   28,R
-  13,L
-   1,J
- 129,R,J
-  14,L
-  25,R,J
+  11,L
+  42,R,J
+  33,L
+  52,R,J
   12,K,G
-   9,J,G
+   6,R,J,G
+  12,K,G
+  12,J,G
    3,K
    1,R,J,G
   12,R,K,G
-   3,J,G
-   1,R,K,G
-   1,K
-   1,R,K
-   4,L,K
-   1,K
-   1
-   1,R
+   1,J,G
+   6,R,K,G
+   5,L,K
    1,R,J,G
    1,R,K,G
    1,R,J,G
   13,R
    1,R,J
-  21,R
+  18,R
+   3,R,D
    1,R,J
   18,R
    1,R,J
   14,R
    1,R,J
    3,R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   40
 
 #lvl_01
@@ -131,7 +144,3 @@ console rmx2 6 -160 8
   34,R,J
   13,R,U,X
  135
-   1,S
-   1,U,J
-   1,O
-  31
