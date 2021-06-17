@@ -96,7 +96,7 @@ Read,LoadBFromA,Exit
 
 Read,6B_MDA,Start
 
-Read,LoadAFromB,SkipExit
+Read,LoadAFromB,SkipExit,Summit
 
 Read,7SHC_MDA1,Start
 

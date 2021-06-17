@@ -1,54 +1,8 @@
 unsafe
 
-console set_cassettes 7
 console set_hearts 15
-console set_berries 170
 console set_time 0.000
 
+Read,7B_MDA
 
-Read,8SHC_MDA,Start
-
-Read,LoadBFromA,Exit
-
-Read,8B_MDA,Start
-
-Read,Load1C
-
-Read,1C_MDA,Start
-
-Read,LoadC
-
-Read,2C_MDA,Start
-
-Read,LoadC
-
-Read,3C_MDA,Start
-
-Read,LoadC
-
-Read,4C_MDA,Start
-
-Read,LoadC
-
-Read,5C_MDA,Start
-
-Read,LoadC
-
-Read,6C_MDA,Start
-
-Read,LoadC
-
-Read,7C_MDA,Start
-
-Read,LoadC,Start,Core
-   1,R
-   9
-Read,LoadC,Core
-
-Read,8C_MDA,Start
-
-Read,Load9From8C,Start,Postcard
-
-Read,Load9From8C,Resume
-
-Read,9_MDA,Start
+Read,LoadAFromB,SkipExit
