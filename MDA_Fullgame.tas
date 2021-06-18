@@ -112,18 +112,6 @@ Read,7SHC_MDA1,Start
    1,J
   46
 
-Read,7SHC_MDA2,Start
-
-  59
-   1,S
-  10
-   1,J
-  30
-   1,R
-   5
-   1,J
-  46
-
 Read,7SHC_MDA3,Start
 
 Read,SaveAndQuit
