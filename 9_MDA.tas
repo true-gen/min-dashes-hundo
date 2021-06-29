@@ -1976,27 +1976,26 @@ console load 10
    3,L,K,G
    3,R,K,G
    1,R,J,G
+  1,R,K,G
+  13,R
+   1,R,J
+  20,R
+   1,R,J
+   3,R
+   1,R,J,G
    1,R,K,G
   13,R
    1,R,J
-  14,R
-   2,R,J
-  10,R
-   1,R,J
-  15,R
-   1,R,J
-   5,R
+   2,R
   40
 
 #lvl_f-02
-   9,R
-   7,R,D,X
+  12,R
    1,R,J
-   8,R
-  14,R,J
-  15,U,X
-   5,R
-   6
+  30,R
+  28,R,J
+  15,R,U,X
+  18,R
    1,S
    1,D,J
   34
