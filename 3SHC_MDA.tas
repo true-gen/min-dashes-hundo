@@ -1,4 +1,6 @@
 console load 3
+
+#Start
 #lvl_s0
   62
    2,R
@@ -476,7 +478,6 @@ console load 3
   40
 
 #lvl_00-c
-***S
    8,R,K,G
    5,R,J,G
    4,L,J

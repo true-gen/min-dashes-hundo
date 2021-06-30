@@ -1,18 +1,7 @@
 unsafe
 
-console set_hearts 15
-console set_time 0.000
+Read,6HC_MDA1
 
-Read,7SHC_MDA1
+Read,SaveAndQuit
 
-  59
-   1,S
-  10
-   1,J
-  30
-   1,R
-   5
-   1,J
-  46
-
-Read,7SHC_MDA2,Start
+Read,6HC_MDA2,Start
