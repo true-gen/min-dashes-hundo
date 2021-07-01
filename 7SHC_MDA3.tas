@@ -2,11 +2,10 @@
 #play,Section Updraft,37
 
 console load 7 25472 -15520
-   1
 
 #Start
 #Flag 27
-  36
+  37
   12,R,J
    5,K
    3,R,J,G

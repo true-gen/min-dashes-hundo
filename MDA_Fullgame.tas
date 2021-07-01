@@ -112,11 +112,11 @@ Read,7SHC_MDA1,Start
    1,J
   46
 
-Read,7SHC_MDA3,Start
+Read,7SHC_MDA2,Start
 
 Read,SaveAndQuit
 
-Read,7SHC_MDA4,Start
+Read,7SHC_MDA3,Start
 
 Read,LoadBFromA,Exit
 

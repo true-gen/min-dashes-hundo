@@ -1,7 +1,88 @@
 unsafe
+console set_progress 7
 
-Read,6B_MDA,Start
+Read,7SHC_MDA1
 
-Read,LoadAFromB,SkipExit,Summit
+  59
+   1,S
+  10
+   1,J
+  30
+   1,R
+   5
+   1,J
+  46
 
-Read,7SHC_MDA1,Start
+Read,7SHC_MDA2,Start
+
+Read,SaveAndQuit
+
+***
+
+Read,7SHC_MDA3,Start
+
+Read,LoadBFromA,Exit
+
+Read,7B_MDA,Start
+
+Read,LoadAFromB,Start,Summit
+
+ 115
+
+Read,Epilogue,Start
+
+Read,LoadCoreFromSummit,8A
+
+console set_hearts 4
+
+Read,8SHC_MDA,Start
+
+Read,LoadBFromA,Exit
+
+console set_hearts 15
+console set_cassettes 8
+
+Read,8B_MDA,Start
+
+Read,Load1C
+
+Read,1C_MDA,Start
+
+Read,LoadC
+
+Read,2C_MDA,Start
+
+Read,LoadC
+
+Read,3C_MDA,Start
+
+Read,LoadC
+
+Read,4C_MDA,Start
+
+Read,LoadC
+
+Read,5C_MDA,Start
+
+Read,LoadC
+
+Read,6C_MDA,Start
+
+Read,LoadC
+
+Read,7C_MDA,Start
+
+Read,LoadC,Start,Core
+   1,R
+   9
+Read,LoadC,Core
+
+Read,8C_MDA,Start
+
+***
+
+Read,Load9From8C,Start,Postcard
+
+Read,Load9From8C,Resume
+
+Read,9_MDA,Start
