@@ -1,7 +1,7 @@
 unsafe
 
-Read,6HC_MDA1
+Read,6B_MDA,Start
 
-Read,SaveAndQuit
+Read,LoadAFromB,SkipExit,Summit
 
-Read,6HC_MDA2,Start
+Read,7SHC_MDA1,Start

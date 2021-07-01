@@ -1,13 +1,14 @@
 console load 7
 
+ 104
 #Start
    1
 #lvl_a-00-intro
- 246
+ 142
 
 #lvl_a-00
-  77
-   9,R
+  78
+   8,R
    5,R,J
    4,R
    1,R,K,G
