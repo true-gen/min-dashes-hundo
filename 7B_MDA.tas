@@ -10,8 +10,8 @@
 #console hard 7 8424 -7864
 #Play,Section 2000m,37
 
-console hard 7 10632 -9384
-Play,Section 2500m,37
+#console hard 7 10632 -9384
+#Play,Section 2500m,37
 
 #console hard 7 12848 -11320
 #Play,Section 3000m,37
@@ -22,7 +22,7 @@ Play,Section 2500m,37
 #console hard 7 12880 -14832
 #Play,Flag 8,37
 
-#console hard 7
+console hard 7
    1
 
 #Start
