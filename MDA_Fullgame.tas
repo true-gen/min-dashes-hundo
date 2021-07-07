@@ -1,5 +1,7 @@
 #By Blobbity21, Truegen, Tiyo98, Quirren, BeanSchemes
 
+#Start on "Begin"
+
 Read,StartFullGameFile
 
 Read,Prologue,Start
