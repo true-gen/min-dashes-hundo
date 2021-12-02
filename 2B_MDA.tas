@@ -688,6 +688,7 @@ console hard 2
   40
 
 #lvl_end (2X)
+***
    1
    1,R,J,G
    4
@@ -697,40 +698,37 @@ console hard 2
   10,R,J,G
   12,R,K,G
    2,R,J,G
-   8,R,K,G
-   7,K
-  19,U,X
-   1,L
+  10,R,K,G
+   2,K
+  22,U,X
    1,S
    1,D
    1,J,F,180
    1,L
    1,F,270
+   1,L
+   1,F,270
    1,L,S
    9
    1,J
-   1,L,K,G
    1,S
    1,D
    1,J,F,180
    1,R
-   1,S,F,90
-   9
-   9,L,K,G
-  18,L,J,G
-  14,K,G
-  14,J,G
-  14,K,G
-  14,J,G
-   3,K,G
-  20,J
-  24,U,X
-  12
- 122
-   1,S
-   1,D,J
+   1,F,90
    1,R
-   1,X
-   1,U
-   1,J,F,
-   1,O
+   1,F,90
+   1,R,S
+   9
+   1,L,J,G
+   8,L,K,G
+  19,J,G
+  12,K,G
+  12,J,G
+  12,K,G
+  12,J,G
+   3,K,G
+   5,J
+  16,U,X
+ 135
+ChapterTime: 1:35.880(5640)
