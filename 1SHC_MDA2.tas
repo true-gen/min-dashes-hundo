@@ -1,126 +1,160 @@
-#console load 1 lvl_6
-   1
 unsafe
-console load 1 1680 -1496
-Play, lvl_s1(2)
+console load 1 lvl_6
+   1
+#console load 1 1336 -1576
+#Play, lvl_s1(2)
 
 #Start
 #lvl_6
   36
+   1,L,J
+   1
+   1,L,J,G
+   1
+   6,K,G
    1,R,J
-  14,R
-  12,R,J
-  12,R,K,G
-  12,J,G
-  12,K,G
-   2,J,G
-   1,R,K,G
-   4,L,K,G
-   3,K,G
-   3,R,K,G
+  20,R,K
+  12,L,J,G
+   6,L,K,G
+   1,J
+   9,K,G
+   4,R,K
+   1,K
    1,R,J,G
-   1,R,K,G
-  12,R
-   5,R,J
-  14,R
-  33,R,D
-   1,R,J
-  14,R
-   4,R,J
+  17,R,K,G
+  20,R,D
+   5,D
+  18,R,D
+   1,R,J,G
+   9,R,K,G
+  15,R,X
    5,R
-   
-  11,R,X
    1,R,J
   19,R
-   9,R,J
-  12,R,K
-   7,R,J,G
+   6,R,J
+   2,L,J
+   1,K
+   4,J,G
+   7,R,J
    1,R,K,G
-   9,R
+   4,R,J,G
+   1,R
+   1,R
+   1,R,K,G
+   1,R
+   1,R,J,G
+   6,R
   40
 
 #lvl_6a
+   1
+   1,R,J
+   5,R
+   1,R,J
+   1
+   1
+   1,R
+   1,R
+   1
    3,R
-   8,R,J
-  14,R
-   7,L
+   8,L
    9,L,D
-  22,R
-   1,R,J,G
-   7,R
-  12,R,D,J
-  11,R,K
+   3,R,D
+  24,R
+  11,R,D,J
+   1,L,J
+   1,K,G
+  12,R,K
   12,L,J,G
   12,L,K,G
-  12,L,J,G
-   5,R,K
-  45,R,J
-   1,R,K
-  16,R
-   1,R,K
-   2,R
-   1
+   1,L,J,G
+   3,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   4,R,J
+   1,K
+   1,L,K
+   1,J
+   2,K,G
+  43,R,K
+   1,R,J
+   1,R
+   2
+  17,R
+   1,R,J
    1,R,K,G
    1,R,J,G
-  14,R
-   1,R,K
+   1
+  10,R
+   1,R,J
   21,R
    1,R,J
   14,R
    1,R,J
-  14,R
+  20,R
    1,R,J
-  13,R
+   3,R
   40
 
 #lvl_6b
-
-   1,R
+  11,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   4,R,J
-  10,R
-  10,G
-   6,U,G
-  21,G
-   2,R,J,G
-   5,R,K,G
-   3,R
+   9,R,J
+  12,R
+  17,G
+   1,U,G
+   1
    1,R,J,G
-  13,R
-  29,L
-   5,L,D
-
-  26,L,J
-   1,R,J
-   8,K,G
-   2,L,K
-   1,L,J,G
-  13,L
-   8,L,J
-   5,L,K
-   4,L,J
-  41,L,K
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   5,R
+   1,R,K
+   4,R
+   4,R
    1,L,J
-   6,L
+   1,L,K
+  22,L
+   5,L,D
+  22,L,J
+   2,R
+   4,K,G
+   1
+   2,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   5,L,J
+   3,J
+   1,K
+   4,L,K
+   4,L,J
+  17,L,K
+   2
+  13,L
+   6,L,D
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
   40
 
 #lvl_s0
-   8,L
-   1,L,J
   14,L
    1,L,J
-  18,L
-  24,L,J
-  12,L,K,G
-  12,J,G
+  26,L
+   7,L
+   9
+  12,R,J,G
   12,K,G
-   2,J,G
-   1,K
-   7,K,G
-   8,L,G
+   6,J
+   1,L
+   6
+   1,G
+
   12,R,J
    7,L,K
    1,L,J,G
@@ -130,95 +164,116 @@ Play, lvl_s1(2)
   16,L,D
    1,L
    1,L,D,J
-   4,L,D
-   1,L,D,J
+   4,L
+   1,L,J
   13,L
    1,L,J
-  11,L
+   5,L
+   1,L,K
+   5,L
    1,L,J,G
-   1,L,K,G
-  13,L
-  12,L,J
-  12,L,K,G
+  20,L,K,G
   12,L,J,G
-   3,L,K,G
-
-   1,L,J,G
-   4,R,J,G
-   4,J,G
-   2,L,J,G
-   1,L,K,G
-   1,L,J,G
   12,L,K,G
-  12,L,J,G
-   6,L,K,G
-   1,L,J,G
-   4,R,J,G
-   4,J,G
-   3,L,J,G
+   4,L,J,G
+   3,R,J
+   4,J
    1,L,K,G
    1,L,J,G
-  13,L
-   1,L,J
-   1,L
+  10,L,K,G
+  12,R,J
+   6,R,K,G
+   1,J
+   6,K,G
+   5,L,K
+   1,K
+   1,L,J,G
+   2,L,K,G
+  10,L
   40
 
 #lvl_s1
-
-   5,U,X
-  14
-   4,L
+   3,L
+   2,L,J
+   8,U,Z
+  36,L,J
   14,L,Z
-   1,L,J
-  49,L
-  14,L,J
-   1,L,K,G
-   2,R,K,G
-   3,L,K,G
-   1,L,J,G
-   3,L,K,G
-   5,L
-   5,R,D,X
-   6,L,J
-  22,L
-   5,R,U,X
-  10,L
-   5,L,X
-  20,L
-  23,L,U,X
- 340
-  10,L
-   5,L,J
-   5,L
    4,L,J
-   4,L
-   1
+  25,L
+   5,R,D,X
+   2,L,J
+   3,L,K,G
+  16,L,J,G
+   5,R,U,X
+   3,L,J,G
+   5,L
+   2,L,K
+  15,L,X
+   2,L
+   1,L,J
+   6,L,U,X
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
+  14,L
+  22,L,J
+  23,L
+   3,L,D
    1,L,J,G
    1,L,K,G
-   6,L
-  16,D,X
- 136
+   9,L
+  10,L,J
+   9,L
+   1,L,J
+  18,D,X
+ 134
    1,S
    1,U
    1,F,0
    1,U,J
   31
 
-Read,SaveAndQuit
+
+  16
+   1,D
+   1,J
+  32
+
+#Read,SaveAndQuit
 
 #lvl_s1(2)
   37
+   5,R
+   8,R,J
+  29,R
+   7,R,D
+   1,R,J,G
+   1,R,K,G
+   9,R
    1,R,J
-   3,R
+  65,R,D
+  12,R,J
+   1,R,K
+  41,R
+   6,R,K
+   1,R
+   1,R,K
+   9,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,J
+   5,R
   40
 
 #lvl_s0(2)
-   6,R
-   3,R,J
-   3,R,J
-  13,R,D
-  10,L,D
-  13,R,D
+   4,R
+   1,R,J
+  15,R,D
+   8,L,D
+  16,R,D
    2,R
    1,R,J
    1,R
@@ -781,7 +836,7 @@ Read,SaveAndQuit
    4,J,G
    2,R,J,G
   16,R
-#1:30.644(5332)
+#2:02.145(7185)
    1,S
    1,U,J
    1,O
