@@ -4,19 +4,17 @@ console load 1 lvl_9b
 #Start
 #lvl_9b
   36
-   1,R,J
-  14,R
-   1,R,J
-  12,J
-   1,K
-   4,L,K
-   5,J,G
-  10,L
-   1,L,J
-  14,L
-   1,L,J
-  11,L
-  33,U,G
+   5,R
+  19,R,D,J
+   2,K
+   1,L,J,G
+   5,L,K,G
+   1,L,J,G
+   1,L,K,G
+  13,L
+   2,L,J
+  13,L
+  32,U,G
    1,J,G
    1,K,G
    1,L,J,G
@@ -469,4 +467,4 @@ EndRepeat
   21,R
    1,R,J
    6,R
-#0:41.446(2438)
+#0:41.208(2424)

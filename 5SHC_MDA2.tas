@@ -523,12 +523,14 @@ console load 5
    1,L,J
   14,L
    1,L,J
-  14,L
+  23,L
+   1
+   1,L
+   1
    1,L,J
-  10,L
-   1,L,J,G
    1,L,K,G
-  14,L
+   1,L,J,G
+  11,L
    1,L,J
   18,L
    1,L,J
@@ -536,14 +538,12 @@ console load 5
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,L,J
-  23,L
-   2,L,D,J
+  27,L
+   4,L,D,J
   58
 
-#lvl_a-01(3)
-   9,L,D,J
+#lvl_a-01(3
+   7,L,D,J
    9,R,K,G
    1,J
    2,K,G
@@ -614,7 +614,7 @@ console load 5
   13,R,J,G
    3,R,K,G
   32,R
-#1:34.911(5583)
+#1:34.707(5571)
    1,S
    1,U,J
    1,O
