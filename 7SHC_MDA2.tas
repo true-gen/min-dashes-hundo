@@ -1809,23 +1809,40 @@ console summitgem all
   12,J,G
    6,K,G
    7,R
-  19,R,D,J
+  20,R,D,J
   12,K,G
   12,J,G
   12,K,G
-  12,J,G
-  10,K,G
-   2,J,G
-   1,L,J
-   1,R,J
-   2,K,G
-  22,L,K
+  11,J,G
+   1
+   7,K,G
+   2
    1,R,J,G
-  11,R,K,G
-   3,J,G
-   2,K
-  15,U,X
-  24,L,J
+   1,L,J
+   1,R
+   1,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+  18,L,J
+   1,R,K,G
+  11,R,J,G
+  12,K,G
+  11,J,G
+   1
+   2,K,G
+   2
+   1,R,J,G
+   7,L,J,G
+   7,R,J,G
+   1,J
+   2,R,J
+   1,J
+   1,K,G
+   1,L,K
+   1,R
+   2,J,G
+  27,L,J
    1,R,K,G
    4,R,J,G
   12,K,G
@@ -1836,7 +1853,7 @@ console summitgem all
    1,J
    3,K,G
   11,L,K
-#5:01.988(17764)
+#5:02.600(17800)
  207
   40
 
